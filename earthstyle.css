@@ -1,0 +1,172 @@
+@media (max-width:1000px)  and (min-width:300px)
+{
+.imagesmid
+{
+   width: 100%;
+	border-radius: 3%;
+	margin-top:5%;
+	height:15%
+}
+	.imagesbig
+{
+   display: none;
+}
+
+img
+{
+	border-radius:5%;
+}
+
+.title
+{
+  border-radius: 3%;
+background-color:rgba(255,255,255,0.70);
+	
+   width: 100%;
+  height: 15%;
+align-content: center;
+	font-size: 60px;
+}
+
+.textbox
+{
+	  border-radius: 3%;
+background-color:rgba(255,255,255,0.70);
+   width: 100%;
+align-content: center;
+	font-size: 40px;
+	float: right;
+	margin-top:5%;
+	margin-bottom: 5%;
+}
+body
+{
+	background-image: url('background2.jfif');
+	background-repeat:repeat;
+	width: 100%;
+}
+/*
+html {
+height: 100%;
+}
+*/
+.words
+{
+	margin-right:50%;
+	margin-left: 50%;
+}
+
+.link1mid
+{
+	float:left;
+	width:25%;
+	margin-right:10%;
+	margin-left:15%;
+}
+
+
+.link2mid
+{
+	float:right;
+	width:25%;
+	margin-right:10%;
+	margin-left:15%;
+}
+	.link1big
+{
+	display:none;
+}
+
+
+.link2big
+{
+	display:none;
+}
+}
+@media (min-width:1001px)
+{
+.imagesbig
+{
+   width: 33%;
+  height: 15%;
+	border-radius: 3%;
+	margin-top:5%;
+	float:left;
+}
+	.imagesmid
+{
+   display:none;
+}
+
+img
+{
+	border-radius:5%;
+}
+
+.title
+{
+  border-radius: 3%;
+background-color:rgba(255,255,255,0.70);
+	
+   width: 100%;
+  height: 15%;
+align-content: center;
+	margin: auto;
+	font-size: 60px;
+}
+
+.textbox
+{
+	  border-radius: 3%;
+background-color:rgba(255,255,255,0.70);
+   width: 100%;
+align-content: center;
+	font-size: 30px;
+	float: right;
+	margin-top:5%;
+	margin-bottom: 5%;
+}
+body
+{
+	background-image: url('background2.jfif');
+	background-repeat:repeat;
+	width: 100%;
+}
+/*
+html {
+height: 100%;
+}
+*/
+.words
+{
+	margin-right:50%;
+	margin-left: 50%;
+}
+
+.link1big
+{
+	float:left;
+	width:15%;
+	margin-right:10%;
+	margin-left:15%;
+}
+
+
+.link2big
+{
+	float:right;
+	width:15%;
+	margin-right:10%;
+	margin-left:15%;
+}
+	.link1mid
+{
+	display:none;
+}
+
+
+.link2mid
+{
+	display:none;
+}
+}
